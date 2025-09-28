@@ -10,8 +10,7 @@
 
 ## 2. Demo Video
 - Link video demo:  
-  `https://drive.google.com/file/d/1sAmDEat0BcZqXuPeG9di1YynqKhxNIvq/view?usp=sharing` 
-
+  `https://drive.google.com/file/d/1t6VZ8XQDYQGi5H9T15b3Sib064CmGQgq/view?usp=sharing` 
 ---
 
 ## 3. AI Usage
