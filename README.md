@@ -10,7 +10,7 @@
 
 ## 2. Demo Video
 - Link video demo:  
-  `[Thêm link video YouTube/Drive ở đây]`  
+  `https://drive.google.com/file/d/1sAmDEat0BcZqXuPeG9di1YynqKhxNIvq/view?usp=sharing` 
 
 ---
 
